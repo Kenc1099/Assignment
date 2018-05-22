@@ -1,2 +1,2 @@
-var myText = document.getElementById('myPizza');
-myText.innerHTML = ('Give me cake');
+console.log
+prompt("Enter name")
